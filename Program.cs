@@ -45,8 +45,28 @@ button.Click += (o, e) =>
         Random.Shared.Next(form.Width),
         Random.Shared.Next(form.Height)
     );
+
     label.Text = "Points: " + a;
+
+    if(a == 3)
+    {
+        DialogResult res = MessageBox.Show("Restart?", "Wanna restart the game", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+        
+        if(res == DialogResult.OK)
+        {
+            a = 0;
+            label.Text = "Points: " + a;
+        }
+        else
+        {
+            form.Close();
+        }
+    }
+
+    
 };
+
+
 
 form.Controls.Add(button);
 form.Controls.Add(label);
