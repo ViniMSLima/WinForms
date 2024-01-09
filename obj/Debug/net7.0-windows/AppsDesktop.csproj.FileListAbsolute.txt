@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\AppsDesktop\bin\Debug\net7.0-windows\AppsDesktop.exe
+C:\Users\disrct\Desktop\AppsDesktop\bin\Debug\net7.0-windows\AppsDesktop.deps.json
+C:\Users\disrct\Desktop\AppsDesktop\bin\Debug\net7.0-windows\AppsDesktop.runtimeconfig.json
+C:\Users\disrct\Desktop\AppsDesktop\bin\Debug\net7.0-windows\AppsDesktop.dll
+C:\Users\disrct\Desktop\AppsDesktop\bin\Debug\net7.0-windows\AppsDesktop.pdb
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\AppsDesktop.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\AppsDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\AppsDesktop.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\AppsDesktop.AssemblyInfo.cs
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\AppsDesktop.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\AppsDesktop.dll
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\refint\AppsDesktop.dll
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\AppsDesktop.pdb
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\AppsDesktop.genruntimeconfig.cache
+C:\Users\disrct\Desktop\AppsDesktop\obj\Debug\net7.0-windows\ref\AppsDesktop.dll
